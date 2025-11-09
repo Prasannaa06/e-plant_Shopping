@@ -25,4 +25,4 @@ Make sure you have the following installed:
 - Payment Gateway: Enable secure online payments.
   
 ## 👤 Author
-- **[Harsha Hemanth](https://github.com/Harsha-Hemanth)** - Developer & Maintainer
+- **[Sri Laxmi Prasanna](https://github.com/Prasannaa06)** - Developer & Maintainer
